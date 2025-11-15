@@ -54,7 +54,7 @@ The original PyTorch version is compared with the TRT-FP16 version using 2 metri
 
 **MAE**
 ![mae](assets/mae_diff.png)
-*(Left: torch, Right: TRT-FP16)*
+*(Left: TRT-FP16, Right: Torch Reference)*
 ```console
 --- MAE Analysis (Lower is Better) ---
 Matched frames: 594
